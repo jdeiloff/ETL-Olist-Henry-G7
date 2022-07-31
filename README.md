@@ -15,3 +15,5 @@ Most of the code is written using Python, with libraries as Numpy, Pandas, XGB, 
 Even though our dataset is small, we decided to develop a scalable project, with clustering capabilities.
 
 The project's notebooks are provided, as well as the dashboards and the project's report and documentation.
+
+The project is in spanish language, as the bootcamp is located in Argentina, Latin America.
